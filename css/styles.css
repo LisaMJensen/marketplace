@@ -1,0 +1,14 @@
+.receipt {
+  display: none;
+  background-color: lightgreen;
+  border: 2px dotted black;
+  font-family: cursive;
+  font-size: 20px;
+  width: 200px;
+}
+
+body{
+  background-color: lightblue;
+  background-position: center;
+
+}
